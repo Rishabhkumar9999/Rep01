@@ -34,7 +34,7 @@ st.write('Hello world!')
 st.title(':red[Welcome to 🔥Tutorial]')
 st.header(':blue[Introduction to Databases]')
 st.subheader("🐥💻 Web Applications")
-from flask import Flask; app = Flask(__name__); app.route('/')(lambda: '<style>@keyframes flash {0%, 100% {opacity: 1;} 50% {opacity: 0;}} .flash {animation: flash 1s infinite;}</style><p class="flash">My First web page in a few lines</p>'); app.run()
+st.text("My First web page in a few lines")
 
 option = st.selectbox(
   'How would you like to be contacted?',
