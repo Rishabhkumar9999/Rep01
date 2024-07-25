@@ -31,7 +31,7 @@ st.markdown(css, unsafe_allow_html=True)
 
 st.write('Hello world!')
 
-st.title('Jhakaasss :red[Tutorial]')
+st.title('झकास  :red[Tutorial]')
 st.header(':blue[Introduction to Databases]')
 st.subheader("🐥💻 Web Applications")
 st.text("My First web page in a few lines")
